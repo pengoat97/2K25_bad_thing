@@ -1,0 +1,148 @@
+! https://www.porn5f.com
+
+www.porn5f.com##.top_slider.container
+www.porn5f.com##.col-md-4
+www.porn5f.com##.mobframe.hidden-xs
+www.porn5f.com##.hidden-lg.div_sticky2
+www.porn5f.com##.preroll-adv-two.iKuRsI-adv-popup-overlay
+www.porn5f.com###vplayer-tdads-nonlinear
+
+! https://www.pornhd3x.tv
+www.pornhd3x.tv###invideo_wrapper
+www.pornhd3x.tv###switch-mode
+www.pornhd3x.tv##center
+
+! https://missav.com
+missav.com##.mb-6.space-y-6
+missav.com##.mb-2.-m-5
+||missav.com$popup,1p
+
+! https://www.eporner.com
+www.eporner.com##.vjs-inplayer-container
+www.eporner.com##center
+www.eporner.com###btasd
+
+
+
+! https://91pinse.com
+# 91pinse.com##div.mt-4:nth-of-type(3)
+#||91pinse.com$popup,domain=s.pemsrv.com
+#||91pinse.com^$popup,domain=incomparable-pair.com
+#||91pinse.com$popup,1p
+# 91pinse.com##+js(nostif)
+
+
+! https://ch.porncvd.com
+ch.porncvd.com##div:nth-of-type(7)
+
+! 2024年11月16日 https://www.instagram.com
+www.instagram.com##.x1n2onr6.xg6iff7.xippug5.xdt5ytf.x78zum5
+
+! 2024年11月17日 https://anime1.me
+anime1.me###ad-4
+anime1.me###ad-2
+anime1.me###custom_html-4
+anime1.me###ad-1
+
+! 2024年11月22日 https://www.pornhk.org
+www.pornhk.org##.m-0.no-gutters.row
+www.pornhk.org###fullPageModal
+www.pornhk.org##.auto-hide-show.text-right.ml-1
+www.pornhk.org##div.links.row:nth-of-type(8)
+www.pornhk.org##div.container-fluid:nth-of-type(1)
+www.pornhk.org##.collapse.navbar-collapse
+www.pornhk.org##.no-gutters.row.my-1.links
+www.pornhk.org##.p-1.row
+
+! 2024年11月23日 https://www9.pornhd3x.tv
+www9.pornhd3x.tv##center
+www9.pornhd3x.tv###invideo_wrapper
+www9.pornhd3x.tv##footer
+
+! 2024年11月23日 https://www.porntw.com
+www.porntw.com##.m-0.no-gutters.row
+www.porntw.com##div.container-fluid:nth-of-type(1)
+
+! 2024年11月23日 https://zh.xhamster.com
+zh.xhamster.com##._82ff097b
+zh.xhamster.com##.tInzn-cHCn.tInzn-cHCnbottom-widget-section
+zh.xhamster.com##.footer-wrapper
+zh.xhamster.com##.tInzn-cHCnno-ts-init.tInzn-cHCn.tInzn-cHCnplayer
+zh.xhamster.com##.video-type-video > aside
+zh.xhamster.com##.spot-8ef1d.root-1a8f3.primary-48288.root-48288
+zh.xhamster.com##.root-7ae27
+zh.xhamster.com##aside:nth-of-type(2)
+zh.xhamster.com##.tInzn-cHCnno-ts-init.tInzn-cHCn--bottom.tInzn-cHCn
+zh.xhamster.com##.thumb-list-mobile-item--widget.thumb-list-mobile-item--full-width.thumb-list-mobile-item
+zh.xhamster.com##.tInzn-cHCnpremium-n-overlay
+zh.xhamster.com##.tInzn-cHCnno-ts-init.tInzn-cHCn--middle.tInzn-cHCn
+zh.xhamster.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
+
+! 2024年11月23日 https://www.porntw.com
+
+! 2024年11月23日 https://www.porntw.com
+www.porntw.com###chromeModal > .modal-dialog
+www.porntw.com##.auto-hide-show.text-right.ml-1
+www.porntw.com##div.links.row:nth-of-type(8)
+www.porntw.com##.no-gutters.row.my-1.links
+
+! 2024年11月23日 https://www.pornlulu.com
+
+! 2024年11月23日 https://www.pornlulu.com
+www.pornlulu.com###chromeModal > .modal-dialog
+www.pornlulu.com##.m-0.no-gutters.row
+
+! 2024年11月23日 https://www.melonstube.com
+www.melonstube.com##.show.modal-splash-page.fade.z-\[1055\].modal.outline-none.bg-black\/70.overflow-y-hidden.overflow-x-hidden.w-full.h-full.hidden.left-0.top-0.fixed
+
+! 2024年11月23日 https://xxxxcum.com
+xxxxcum.com##.asside-link
+xxxxcum.com##.link-offer
+
+! 2024年12月28日 https://incomparable-pair.com
+||91pinse.com^$popup,domain=incomparable-pair.com
+||incomparable-pair.com^$document,1p
+||91pinse.com/v/*$popup,domain=incomparable-pair.com
+
+! 2025年1月3日 https://ddys.pro
+||img11.360buyimg.com/ddimg/jfs/t1/194515/19/47283/50916/66fc00d5F8571ecc7/0177d4c6d4227f00.jpg$image
+ddys.pro###iaujwnefhw
+ddys.pro###afc_sidebar_2842
+ddys.pro###sajdhfbjwhe
+
+! 2025年2月18日 https://mzh.moegirl.org.cn
+mzh.moegirl.org.cn###mw-subcategories > ._4tteFmBjZh_6279xi.X-2JFOXOR1_6279xi.moe-card
+mzh.moegirl.org.cn##.moe-siderail-sticky > .X-2JFOXOR1_6279xi.moe-card
+mzh.moegirl.org.cn##.stevrhgmNo_6279xi
+mzh.moegirl.org.cn##.LKiWAjzNmD_6279xi
+
+! 2025年2月18日 https://www.twmanga.com
+www.twmanga.com##div.mobadsq
+
+! 2025年2月28日 https://anime1.me
+anime1.me###custom_html-5
+
+! 2025年3月2日 https://tw.manhuagui.com
+tw.manhuagui.com##.gg_728
+tw.manhuagui.com##.sub-btn.clearfix.w980
+tw.manhuagui.com##div.gg_950:nth-of-type(8)
+tw.manhuagui.com##div.jghf.gg_950:nth-of-type(9)
+tw.manhuagui.com##div.jghf.gg_950:nth-of-type(11)
+
+! 2025年4月6日 https://dic.vbird.tw
+dic.vbird.tw##.subnav
+dic.vbird.tw##.here
+dic.vbird.tw##header
+dic.vbird.tw##.sidebar
+dic.vbird.tw##nav
+
+! 2025年8月12日 https://18comic.vip
+
+! 2025年8月12日 https://18comic.vip
+18comic.vip###billboard-modal
+18comic.vip##.hidden-md.hidden-sm.hidden-xs.close.float-right-image
+
+! 2025年8月12日 https://91pinse.com
+91pinse.com##.mt-auto.bg-base-100
+
+||*.aliyuncs.com^$document
