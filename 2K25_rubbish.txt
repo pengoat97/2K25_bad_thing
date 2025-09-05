@@ -147,3 +147,9 @@ dic.vbird.tw##nav
 ! 2025年8月12日 https://91pinse.com
 91pinse.com##.mt-auto.bg-base-100
 ||346kjbtbcc.jakyaqu.xyz^$document
+||md18n895f.oss-cn-hangzhou.aliyuncs.com^$document,1p
+||md18n895f.oss-cn-hangzhou.aliyuncs.com
+||apps.bdimg.com
+||hm.baidu.com
+91porn.com##+js(set-constant, player.preroll, noopFunc)
+91porn.com##div:has(> a > .ad_img)
