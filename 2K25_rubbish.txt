@@ -161,3 +161,6 @@ www.netflav.com##.ads_video_overlay_iframe
 ||d-1351447492.cos.ap-shanghai.myqcloud.com
 ||cdn.jsdelivr.net/*/layer.js^$script
 ||cdn.jsdelivr.net/*/js.cookie.min.js^$script
+
+tktube.com##.player-related-videos
+porncvd.com##.v2-row
