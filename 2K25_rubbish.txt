@@ -153,3 +153,11 @@ dic.vbird.tw##nav
 ||hm.baidu.com
 91porn.com##+js(set-constant, player.preroll, noopFunc)
 91porn.com##div:has(> a > .ad_img)
+
+91porny.com##.modal-backdrop.fade.show
+91porny.com###warningModal
+
+www.netflav.com##.ads_video_overlay_iframe
+||d-1351447492.cos.ap-shanghai.myqcloud.com
+||cdn.jsdelivr.net/*/layer.js^$script
+||cdn.jsdelivr.net/*/js.cookie.min.js^$script
